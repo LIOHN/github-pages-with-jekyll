@@ -4,7 +4,7 @@ email: daniel.e17@outlook.com
 description: > # this means to ignore newlines until "baseurl:"
   Static website aimed at showcasing my skills to prospective employers,
   that will also serve as a knowledge base to me.
-theme: minima 
+theme: minima
 
 # social links
 github_username:  LIOHN # DO NOT include the @ character, or else the build will fail!
